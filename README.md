@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,aws,bash,debian,elasticsearch,gitlab,grafana,html,js,kali,linux,md,mysql,netlify,nginx,powershell,prometheus,py,raspberrypi,ubuntu,vscode&perline=12  " />
+    <img src="https://skillicons.dev/icons?i=git&perline=12  " />
   </a>
 </p>
