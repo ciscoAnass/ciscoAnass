@@ -3,10 +3,10 @@
 
 <p align="left">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzMmtzamtpeTB6cmF3aHZ2NmNyM3JyYzlhcG5uaHRjd3JuNTJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" alt="image" width="450" align="right">
+  <img src="https://media1.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif?cid=6c09b952lhfrskfz0exml37rzxsv9t6wpzkh3pg4zkuqfva7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="image" width="450" align="right">
   </p>
 
-   &lt;configuration&gt;
+   &lt;config&gt;
 
 🖥️ Sys Administration
 
@@ -20,7 +20,7 @@
 
 🕵️ Vulnerability Analysis
 
-   &lt;/configuration&gt;
+   &lt;/config&gt;
 
 
 <h1> Skills :</h1>
