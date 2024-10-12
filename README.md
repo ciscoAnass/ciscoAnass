@@ -17,7 +17,7 @@
 
 💥 Penetration Testing
 
-🕵️ Vulnerability Analysis
+♾️ Devops
 
    &lt;/config&gt;
 
