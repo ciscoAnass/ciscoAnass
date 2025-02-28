@@ -7,6 +7,8 @@
 
    &lt;config&gt;
 
+♾️ Devops
+
 🖥️ Sys Administration
 
 🛡️ Network Security
@@ -17,7 +19,6 @@
 
 💥 Penetration Testing
 
-♾️ Devops
 
    &lt;/config&gt;
 
